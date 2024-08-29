@@ -29,7 +29,7 @@ var code = `<!DOCTYPE html>
         <h1 class="body">body style</h1>
         <h1 class="body">body style</h1>
     </div>
-
+    <button id="btn-color">change color</button>
     <!-- ${"<" + "script"} src="../dist/bundle.js">${"<" + "/script"}> -->
 </body>
 

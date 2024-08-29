@@ -4,7 +4,9 @@ import './styles/body.css';
 import './styles/header.css';
 import './styles/btn.css';
 import '../src/index.html';
+import btnColor from './modules/btn';
 
 document.addEventListener('DOMContentLoaded', () => {
   listner('Отправить');
+  btnColor();
 });
