@@ -20,7 +20,7 @@ module.exports = {
       },
     ],
   },
-  mode: 'development', // Режим разработки
+  mode: 'production', // Режим разработки production   development
   // watch: true,
   devtool: 'source-map',
   plugins: [
